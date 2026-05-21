@@ -2,9 +2,8 @@
 
 Hi, I'm **Rahul Dubey**, a B.Tech student in **Data Science & AI** at IIIT Naya Raipur 🇮🇳 — building at the intersection of machine learning, design, and open source.
 
-[![Twitter](https://img.shields.io/badge/@kydrahul-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kydrahul)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kydrahul)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://github.com/kydrahul)
+[![Twitter](https://img.shields.io/badge/@kydrahul-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)]([https://x.com/rahullvahull])
+
 
 ---
 
