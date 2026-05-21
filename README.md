@@ -29,23 +29,6 @@ Hi, I'm **Rahul Barma**, a B.Tech student in **Data Science & AI** at IIIT Naya 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kydrahul&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kydrahul&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kydrahul&theme=github-dark-blue&hide_border=true" height="160" />
-</p>
-
----
-
-### ⏱ WakaTime Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
