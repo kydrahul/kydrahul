@@ -11,7 +11,6 @@ Hi, I'm **Rahul Barma**, a B.Tech student in **Data Science & AI** at IIIT Naya 
 - 🧠 Interests: **Machine Learning · NLP · Indian Language AI · UI/UX Design**
 - 🔭 Currently building: **Barma** — a personal second brain bot using LLMs
 - 🌱 Exploring: **Sarvam AI APIs**, ASR evaluation, and speech datasets for Indian languages
-- 🤝 Open source: Contributed to **Jenkins** docs
 - ⚡ Outside code: Basketball & Football
 
 ---
