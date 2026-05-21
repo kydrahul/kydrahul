@@ -27,4 +27,3 @@ Hi, I'm **Rahul Barma**, a B.Tech student in **Data Science & AI** at IIIT Naya 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat&logo=ros&logoColor=white)
 
----
