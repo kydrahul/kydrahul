@@ -1,9 +1,10 @@
-# Hey 👋, I'm Rahul!
+# Hey 👋, I'm Rahul Barma!
 
-Hi, I'm **Rahul Dubey**, a B.Tech student in **Data Science & AI** at IIIT Naya Raipur 🇮🇳 — building at the intersection of machine learning, design, and open source.
+Hi, I'm **Rahul Barma**, a B.Tech student in **Data Science & AI** at IIIT Naya Raipur 🇮🇳 — building at the intersection of machine learning, design, and open source.
 
-[![Twitter](https://img.shields.io/badge/@kydrahul-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)]([https://x.com/rahullvahull])
-
+[![X](https://img.shields.io/badge/@rahullvahull-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://x.com/rahullvahull)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulbarma/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=googlechrome&logoColor=white)](https://rahulbarma.xyz)
 
 ---
 
@@ -45,10 +46,7 @@ Hi, I'm **Rahul Dubey**, a B.Tech student in **Data Science & AI** at IIIT Naya 
 ### ⏱ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-<!-- This section is auto-updated if you set up the WakaTime GitHub Action -->
 <!--END_SECTION:waka-->
-
-> _Set up [waka-readme](https://github.com/athul/waka-readme) to auto-populate your coding activity here._
 
 ---
 
