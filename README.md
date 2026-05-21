@@ -28,10 +28,3 @@ Hi, I'm **Rahul Barma**, a B.Tech student in **Data Science & AI** at IIIT Naya 
 ![ROS2](https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat&logo=ros&logoColor=white)
 
 ---
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kydrahul&style=flat&color=grey" alt="profile views" />
-</p>
