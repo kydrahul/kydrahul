@@ -2,10 +2,9 @@
 
 Hi, I'm **Rahul Barma**, a B.Tech student in **Data Science & AI** at IIIT Naya Raipur 🇮🇳 — building at the intersection of machine learning, design, and open source.
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahul24102@iiitnr.edu.in)
 [![X](https://img.shields.io/badge/@rahullvahull-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://x.com/rahullvahull)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulbarma/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=googlechrome&logoColor=white)](https://rahulbarma.xyz)
-
 ---
 
 - 🧠 Interests: **Machine Learning · NLP · Indian Language AI · UI/UX Design**
