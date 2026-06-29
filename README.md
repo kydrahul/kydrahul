@@ -1,18 +1,10 @@
-# Hey 👋, I'm Rahul Barma!
+# Hey 👋, I'm Rahul Barma 🇮🇳 !
 
-Hi, I'm **Rahul Barma**, a B.Tech student in **Data Science & AI** at IIIT Naya Raipur 🇮🇳 — building at the intersection of machine learning, design, and open source.
+The model converged. So did I, eventually. 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahul24102@iiitnr.edu.in)
 [![X](https://img.shields.io/badge/@rahullvahull-000000?style=flat&logo=x&logoColor=white)](https://x.com/rahullvahull)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rahullvahull.rahullvahull)
----
-
-- 🧠 Interests: **Machine Learning · NLP · Indian Language AI · UI/UX Design**
-- 🔭 Currently building: **Barma** — a personal second brain bot using LLMs
-- 🌱 Exploring: **Sarvam AI APIs**, ASR evaluation, and speech datasets for Indian languages
-- ⚡ Outside code: Basketball & Football
-
----
 
 ### 🛠 Languages & Tools
 
@@ -26,3 +18,6 @@ Hi, I'm **Rahul Barma**, a B.Tech student in **Data Science & AI** at IIIT Naya 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat&logo=ros&logoColor=white)
 
+### 📊 GitHub Stats
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kydrahul&show_icons=true&theme=dark&hide_border=true&count_private=true)
